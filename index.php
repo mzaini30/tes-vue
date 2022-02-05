@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
 	<head>
-		<?php include "vue.js" ?>
+		<script>
+			<?php include "vue.js" ?>
+		</script>
 	</head>
 	<body>
 		<p>Hai</p>
